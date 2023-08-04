@@ -241,11 +241,11 @@ body{
 
   .thirddiv .leftcontent3 h1{
     font-size: 43px;
-    margin-left: 123px;
+    margin-left: 62px;
   }
   .thirddiv .leftcontent3 p{
-       font-size: 23px!important;
-    margin-left: 117px;
+   font-size: 23px!important;
+    margin-left: 69px;
   }
 
   .thirddiv .rightcontent3{
@@ -311,15 +311,15 @@ body{
 
   }
   .forthdiv .rightcontent4 h1{
-    font-size: 52px;
+   font-size: 47px;
     font-weight: 100;
-    margin-bottom: -17px;
+    margin-bottom: -1px;
     color: #ffff;
   }
 
   .forthdiv .rightcontent4 p{
     
-    font-size: 27px;
+       font-size: 21px;
     color: #fff;
   }
 
