@@ -149,10 +149,11 @@ body{
     margin-bottom: -17px;
     color: #ffff;
   }
-  .leftcontent p{
-    font-size: 32px;
+.leftcontent p {
+    margin-top: 39px;
+    font-size: 24px;
     color: #fff;
-  }
+}
   .leftcontent button{
     width: 285px;
     height: 56px;
